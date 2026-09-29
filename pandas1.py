@@ -7,3 +7,5 @@ dicionario = {"nome":["joão", "maria", "pedro"],"cargo":["eletricista", "advoga
 df = pd.DataFrame(dicionario)
 
 print(df)
+
+
